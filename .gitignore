@@ -105,3 +105,9 @@ venv.bak/
 
 # IDE
 .idea/
+
+# Data 
+*.h5
+
+# Log
+logs/
